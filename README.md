@@ -1,0 +1,1 @@
+All the code is in the Plant_Diseases.ipynb file.
